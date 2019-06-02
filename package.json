@@ -1,0 +1,14 @@
+{
+  "name": "zenefits",
+  "version": "1.0.0",
+  "description": "Solution for Zenefits coding problem about findind open restaurants at a given time",
+  "main": "answer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Utkarsh Shekhar <iamutkarshshekhar(at)gmail(dot)com>",
+  "license": "ISC",
+  "dependencies": {
+    "read-each-line-sync": "^1.0.5"
+  }
+}
